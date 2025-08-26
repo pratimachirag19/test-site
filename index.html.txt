@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Company</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Hero Section -->
+  <header class="hero">
+    <h1>🚀 My Company</h1>
+    <p>We build amazing software solutions for modern businesses.</p>
+  </header>
+
+  <!-- About Section -->
+  <section class="about">
+    <h2>About Us</h2>
+    <p>We are a team of passionate engineers and innovators helping startups and enterprises achieve their goals.</p>
+  </section>
+
+  <!-- Services Section -->
+  <section class="services">
+    <h2>What We Do</h2>
+    <ul>
+      <li>💻 Custom Software Development</li>
+      <li>☁️ Cloud Solutions</li>
+      <li>📱 Mobile App Development</li>
+      <li>🔒 Cybersecurity Consulting</li>
+    </ul>
+  </section>
+
+  <!-- Contact Section -->
+  <section class="contact">
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:hello@mycompany.com">hello@mycompany.com</a></p>
+    <p>LinkedIn: <a href="#">linkedin.com/company/mycompany</a></p>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 My Company. All rights reserved.</p>
+  </footer>
+</body>
+</html>
